@@ -1,0 +1,24 @@
+.weather {
+  &__select {
+    border: 1px solid #A9A9A9;
+    padding: 4px;
+    min-width: 100px;
+    background-color: #fff;
+  }
+
+  &__button {
+    color: #fff;
+    border: none;
+    padding: 5px;
+    font-weight: 600;
+    margin-left: 16px;
+    background-color: #097F00;
+  }
+}
+
+.city-weather {
+  &__list {
+    padding: 0px;
+    list-style: none;
+  }
+}
